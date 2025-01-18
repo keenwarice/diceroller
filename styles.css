@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'GothamRoundedBold';
+    src: url('GothamRoundedBold.otf') format('opentype');
+}
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #000000;
+}
+#text {
+    position: absolute;
+    bottom: 20%;
+    font-family: 'GothamRoundedBold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: #2986cc;
+}
+canvas {
+    display: block;
+}
