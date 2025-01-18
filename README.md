@@ -10,11 +10,11 @@ diceroller is a simple, interactive, and visually appealing tool that allows you
 - **3d visuals**: cool 3d graphics using three.js.
 - **interactive camera**: automatically adjusts to display the result when the dice stops rolling.
 <br/>
-### credits:
+### credits
 <br/>
 the foam dice on my table that inspired me to make this project
 <br/>
-### upcoming features:
+### upcoming features
 <br/>
 if this project gets enough votes on highseas, i plan to add more dice, (d2,d4,d8,d10,d12,d20, etc.)
 <br/>
