@@ -13,3 +13,9 @@ diceroller is a simple, interactive, and visually appealing tool that allows you
 ### credits:
 <br/>
 the foam dice on my table that inspired me to make this project
+<br/>
+### upcoming features:
+<br/>
+if this project gets enough votes on highseas, i plan to add more dice, (d2,d4,d8,d10,d12,d20, etc.)
+<br/>
+also a reset button to reset the dice to normal position
